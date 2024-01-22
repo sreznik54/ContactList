@@ -19,4 +19,4 @@ public class Coach extends Person{
         return super.toString() + " School: " + school;
     }
 }
-}
+
