@@ -1,6 +1,6 @@
 public class Coach extends Person{
     private String school;
-
+    // Makes a Coach object
     public Coach(String firstName, String lastName, String phoneNumber, String school){
         super(firstName, lastName, phoneNumber);
         this.school = school;
